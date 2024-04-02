@@ -1,0 +1,22 @@
+import:
+  - default:configuration-default.yml
+
+projects:
+  - name: mhus-commons
+    path: mhus-commons
+    labels:
+      order: 10
+      group:
+        - jar
+        - build
+    properties:
+      gitUrl: https://github.com/mhus/mhus-commons.git
+  - name: kt2l
+    path: kt2l
+    labels:
+      order: 20
+      group:
+        - jar
+        - build
+    properties:
+      gitUrl: https://github.com/mhus/kt2l.git
