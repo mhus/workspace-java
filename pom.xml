@@ -10,6 +10,9 @@
     <modules>
         <module>mhus-commons</module>
         <module>kt2l</module>
+        <module>conductor</module>
+        <module>maven-plugin-versioning</module>
+        <module>maven-plugin-tmpl</module>
     </modules>
 
 </project>

@@ -9,6 +9,7 @@ projects:
       group:
         - jar
         - build
+        - deploy
     properties:
       gitUrl: https://github.com/mhus/mhus-commons.git
   - name: kt2l
@@ -20,3 +21,33 @@ projects:
         - build
     properties:
       gitUrl: https://github.com/mhus/kt2l.git
+  - name: conductor
+    path: conductor
+    labels:
+      order: 30
+      group:
+        - jar
+        - build
+        - deploy
+    properties:
+      gitUrl: https://github.com/mhus/conductor.git
+  - name: maven-plugin-versioning
+    path: maven-plugin-versioning
+    labels:
+      order: 110
+      group:
+        - jar
+        - build
+        - deploy
+    properties:
+      gitUrl: https://github.com/mhus/maven-plugin-versioning.git
+  - name: maven-plugin-tmpl
+    path: maven-plugin-tmpl
+    labels:
+      order: 120
+      group:
+        - jar
+        - build
+        - deploy
+    properties:
+      gitUrl: https://github.com/mhus/maven-plugin-tmpl.git
