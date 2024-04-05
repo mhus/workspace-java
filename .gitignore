@@ -1,7 +1,7 @@
 
 # modules
 /mhus-commons
-/kt2l
+/kt2l*
 /conductor
 /maven-plugin-versioning
 /maven-plugin-tmpl
