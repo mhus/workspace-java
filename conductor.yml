@@ -21,6 +21,14 @@ projects:
         - build
     properties:
       gitUrl: https://github.com/mhus/kt2l.git
+  - name: kt2l-pages
+    path: kt2l-pages
+    labels:
+      order: 21
+      group:
+    properties:
+      gitUrl: https://github.com/mhus/kt2l.git
+      gitBranch: gh-pages
   - name: conductor
     path: conductor
     labels:
