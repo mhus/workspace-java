@@ -5,6 +5,7 @@
 /conductor
 /maven-plugin-versioning
 /maven-plugin-tmpl
+/container-examples-suite
 
 .classpath
 .project

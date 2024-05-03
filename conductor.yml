@@ -59,3 +59,10 @@ projects:
         - deploy
     properties:
       gitUrl: https://github.com/mhus/maven-plugin-tmpl.git
+  - name: container-examples-suite
+    path: container-examples-suite
+    labels:
+      order: 200
+      group:
+    properties:
+      gitUrl: https://github.com/mhus/container-examples-suite.git
