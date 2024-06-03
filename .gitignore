@@ -7,6 +7,10 @@
 /maven-plugin-tmpl
 /container-examples-suite
 /mhus.de
+/kt2l-snippets
+/kubernetes-client-java
+/vis-network-vaadin
+/vaadin-raw-xterm-addon
 
 .classpath
 .project

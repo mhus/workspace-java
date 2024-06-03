@@ -73,3 +73,17 @@ projects:
       group:
     properties:
       gitUrl: https://github.com/mhus/mhus.de.git
+  - name: kt2l-snippets
+    path: kt2l-snippets
+    labels:
+      order: 220
+      group:
+    properties:
+      gitUrl: https://github.com/mhus/kt2l-snippets.git
+  - name: kubernetes-client-java
+    path: kubernetes-client-java
+    labels:
+      order: 300
+      group:
+    properties:
+      gitUrl: https://github.com/mhus/kubernetes-client-java.git

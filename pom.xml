@@ -13,6 +13,13 @@
         <module>conductor</module>
         <module>maven-plugin-versioning</module>
         <module>maven-plugin-tmpl</module>
+        <module>vis-network-vaadin</module>
+        <!--
+        <module>vaadin-xterm-addon</module>
+        -->
+        <!--
+        <module>kubernetes-client-java</module>
+        -->
     </modules>
 
 </project>
